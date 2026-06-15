@@ -1,0 +1,1 @@
+print('Hello')  #Simple hello world p
